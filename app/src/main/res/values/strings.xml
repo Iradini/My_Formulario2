@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Formulario2</string>
+    <string name="page_title">Mirinapp</string>
+    <string name="favorite">Favoritos</string>
+    <string name="search">Buscar</string>
+    <string name="content_description_favorite">Ícono de favoritos, corazón</string>
+    <string name="content_description_search">Ícono de búsqueda, lupa</string>
+    <string name="more">Más</string>
+    <string name="content_description_more">Ícono columna de tres puntitos</string>
+    <string name="titulo_pickers">Obtener fecha</string>
+    <string name="formato_fecha">dd/mm/yyyy</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="correo_electronico">Correo Electrónico</string>
+    <string name="next_btn">Siguiente</string>
+    <string name="myDate">Fecha de Nacimiento</string>
+    <string name="ok_btn">Ok</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="phone_number">Teléfono</string>
+    <string name="user_description">Descripción Contacto</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="editar_datos">Editar</string>
+    <string name="aceptar">Aceptar</string>
+
+
+</resources>
